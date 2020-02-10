@@ -6,7 +6,7 @@ public class MaxValues {
         byte b = 127;
         System.out.println("Byte: "+ b);
         b++;
-       
+
         System.out.println("Byte: "+ b);
     }
 
