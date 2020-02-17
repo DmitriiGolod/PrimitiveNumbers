@@ -1,4 +1,4 @@
-package com.example.java;
+package com.javalessions.values;
 
 public class MaxValues {
 
